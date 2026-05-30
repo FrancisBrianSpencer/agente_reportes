@@ -1,0 +1,11 @@
+INSTALACIÓN
+
+1. Instalar Docker Desktop
+2. Extraer ZIP
+3. Ejecutar:
+
+docker compose up --build
+
+4. Descargar modelo:
+
+ollama pull deepseek-r1:8b
